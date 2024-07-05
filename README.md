@@ -43,3 +43,19 @@ Python will be used to implement machine learning models, employing techniques s
 **Outcome**
 
 The project aims to develop a robust sales prediction model that will enable businesses to make data-driven decisions, optimize advertising strategies, and enhance operational efficiency.
+
+## Results
+| Sl. no.| Regression Model         | Train R2(%) | Test R2(%) |
+| ------ | ------------------------ | ----------- | ---------- |
+|    1   | Linear Regression        | 0.894975    | 0.885177   |
+|    2   | Linear Regression Tuned  | 0.894975    | 0.885177   |
+|    3   | Lasso Regression         | 0.820983    | 0.827435   |
+|    4   | Lasso Regression Tuned   | 0.894967    | 0.885461   |
+|    5   | Ridge Regression         | 0.894931	  | 0.884211   |
+|    6   | Ridge Regression Tuned   | 0.894975    | 0.885168   |
+|    7   | Decision Tree            | 1.000000    | 0.954889   |
+|    8   | Decision Tree Tuned      | 0.775947    | 0.829328   |
+|    9   | Random Forest            | 0.996283    | 0.983694   |   
+|   10   | Random Forest Tuned      | 0.817937    | 0.847796   |
+|   11   | XGB                      | 1.000000    | 0.984017   |
+|   12   | XGB Tuned                | 1.000000    | 0.984017   |
