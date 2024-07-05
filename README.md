@@ -86,3 +86,6 @@ In the ever-evolving world of product and service-based businesses, forecasting 
 **Conclusion**
 
 This project highlights the critical role of data science in optimizing business strategies and predicting sales. The insights gained from this analysis aid in informed decision-making, improving resource allocation and marketing strategies. By leveraging data-driven approaches, businesses can enhance their outcomes and drive growth effectively.
+
+## Reference
+[Oasis Infobyte](https://oasisinfobyte.com/)
